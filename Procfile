@@ -1,1 +1,1 @@
-web: streamlit run https://raw.githubusercontent.com/omshinde/ansesai/master/ansesaiApp.py
+web: sh setup.sh && streamlit run ansesaiApp.py
